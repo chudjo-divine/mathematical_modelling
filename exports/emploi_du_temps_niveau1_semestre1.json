@@ -1,0 +1,58 @@
+[
+  {
+    "cours": "INTRODUCTION À L'ALGORITHMIQUE ET À LA PROGRAMMATION",
+    "code": "INF111",
+    "jour": "Jeudi",
+    "periode": "P1 (7h-10h)",
+    "salle": "AIII",
+    "enseignant": "EKODECK"
+  },
+  {
+    "cours": "INTRODUCTION À L'ARCHITECTURE DES ORDINATEURS",
+    "code": "INF121",
+    "jour": "Jeudi",
+    "periode": "P2 (10h-13h)",
+    "salle": "R108",
+    "enseignant": "EKODECK"
+  },
+  {
+    "cours": "INTRODUCTION AUX SYSTÈMES ET RÉSEAUX",
+    "code": "INF131",
+    "jour": "Mardi",
+    "periode": "P1 (7h-10h)",
+    "salle": "R108",
+    "enseignant": "EKODECK"
+  },
+  {
+    "cours": "ANALYSE DE LA DROITE REELLE",
+    "code": "MAT131",
+    "jour": "Mercredi",
+    "periode": "P1 (7h-10h)",
+    "salle": "R108",
+    "enseignant": "EKODECK"
+  },
+  {
+    "cours": "FORMATION BILINGUE I",
+    "code": "FBL111",
+    "jour": "Vendredi",
+    "periode": "P1 (7h-10h)",
+    "salle": "R108",
+    "enseignant": "EKODECK"
+  },
+  {
+    "cours": "INTRODUCTION À LA SÉCURITÉ INFORMATIQUE",
+    "code": "INF141",
+    "jour": "Samedi",
+    "periode": "P1 (7h-10h)",
+    "salle": "R108",
+    "enseignant": "EKODECK"
+  },
+  {
+    "cours": "EXPLORATION PROFESSIONNELLE, ORIENTATION ET EDUCATION A LA CITOYENETE",
+    "code": "PPE111",
+    "jour": "Lundi",
+    "periode": "P1 (7h-10h)",
+    "salle": "R108",
+    "enseignant": "EKODECK"
+  }
+]
